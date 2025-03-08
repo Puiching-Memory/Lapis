@@ -1,4 +1,4 @@
 # conda create -n lapis python=3.12
 
 # pyperclip # 仅支持文本
-pywin32
+pywin32==308
